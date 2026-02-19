@@ -8,7 +8,9 @@
 ## 🚀 Project Overview
 
 Alpha AI Movie Recommender System is a **modern AI-powered movie discovery platform**.  
-It uses a **hybrid recommendation engine (TF-IDF + Genre)** to provide **personalized movie suggestions**, trending movies, and detailed movie information — all in a **premium, interactive Streamlit UI**.  
+It uses a **hybrid recommendation engine (TF-IDF + Genre)** to provide **personalized movie suggestions**, trending movies, and detailed movie information — all in a **premium, interactive Streamlit UI**. 
+
+**Live Demo** https://alpha-ai-movie-recommender-system.streamlit.app/
 
 ---
 
