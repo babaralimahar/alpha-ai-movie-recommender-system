@@ -1,7 +1,7 @@
 # Alpha AI Movie Recommender System 🎬
 
 **Developed by:** Babar Ali  
-**Final Year Project (FYP)** | **Python | Streamlit | AI Hybrid Recommender**
+**NLP** | **Python | Streamlit | AI Hybrid Recommender**
 
 ---
 
@@ -28,12 +28,7 @@ It uses a **hybrid recommendation engine (TF-IDF + Genre)** to provide **persona
 
 ### Home Page
 ![Home Page Screenshot](screenshots/home.png)  
-
-### Search & Recommendations
-![Search Screenshot](screenshots/search.png)  
-
-### Movie Details Page
-![Details Screenshot](screenshots/details.png)  
+ 
 
 > Replace `screenshots/home.png` etc., with your actual screenshot paths in the repo.
 
