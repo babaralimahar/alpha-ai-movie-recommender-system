@@ -27,7 +27,7 @@ It uses a **hybrid recommendation engine (TF-IDF + Genre)** to provide **persona
 ## 💻 Screenshots
 
 ### Home Page
-![Home Page Screenshot](screenshots/home.png)  
+![Home Page Screenshot](home.png)  
  
 
 > Replace `screenshots/home.png` etc., with your actual screenshot paths in the repo.
