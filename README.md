@@ -20,8 +20,6 @@ It uses a **hybrid recommendation engine (TF-IDF + Genre)** to provide **persona
 - 🖼 **Movie Details** – Posters, release date, overview, and genres  
 - 🎨 **Premium UI** – Glassmorphism cards, gradient hero, hover effects, and interactive layout  
 - ⚡ **Fast & Lightweight** – Built with Python and Streamlit  
-- 🏷 **FYP Ready** – Fully functional project for demonstration, presentation, or portfolio  
-
 ---
 
 ## 💻 Screenshots
